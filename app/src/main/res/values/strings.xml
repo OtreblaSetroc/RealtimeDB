@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealTimeDB</string>
+    <string name="title_comida_detail">Comida Detail</string>
+    <string name="comida_list_dialog_ok">OK</string>>
+</resources>
